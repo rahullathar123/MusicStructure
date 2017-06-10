@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Music app</string>
+    <string name ="font">sans-serif-condensed</string>
+
+    <!--Main Page settings-->
+    <string name="name">Rahul Music Player</string>
+    <string name="button">Playlist</string>
+    <string name="button2">Player</string>
+    <string name="button3">Shop</string>
+    <string name="button4">Library</string>
+
+    <!--Player page settings-->
+
+    <string name="farword"><![CDATA[>>]]></string>
+    <string name="pause"><![CDATA[||]]></string>
+    <string name="play"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="player">Music Player</string>
+    <string name="start_time">0 min, 0 sec</string>
+    <string name="final_time">0 min, 0 sec</string>
+    <string name="namesong">Song.mp3</string>
+
+    <!--Shop Page-->
+
+    <string name="sub">Subscription</string>
+    <string name="yearly">1-Year Subscription = $ 12.99</string>
+    <string name="monthly">1- month subscription = $ 1.99</string>
+    <string name="rb1">Yearly subscription</string>
+    <string name="rb2">Monthly subscription</string>
+    <string name="sbt">Confirm</string>
+    <string name="pla">Playing</string>
+
+    <!--Playlist page-->
+
+    <string name="playlist">Search playlist</string>
+    <string name="gm">George Michael</string>
+    <string name="mj">Michael jackson</string>
+    <string name="ei">Enrique Igleasias</string>
+    <string name="bs">Blake Shelton</string>
+    <string name="bsp">Britney Spears</string>
+    <string name="sop">Shop</string>
+
+    <!--Library page-->
+
+    <string name="mc">Music Categories</string>
+    <string name="cs">Classic Songs</string>
+    <string name="ct">Canada Top 10</string>
+    <string name="ft">French Top 10</string>
+    <string name="ut">USA Top 10</string>
+    <string name="ts">Trending songs</string>
+    <string name="vs">Viral Songs</string>
+    <string name="home">Home</string>
+    <string name="plaer">Player</string>
+
+
+</resources>

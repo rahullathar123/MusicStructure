@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--Library page settings-->
+    <color name="music_cat_color">#2196F3</color>
+    <color name="music_sub_cat_color">#F44336</color>
+    <!--Music player settings-->
+    <color name="music_player_color">#827717</color>
+    <color name="time_duration">#000000</color>
+    <!--Playlist settings-->
+    <color name="singer_name_color">#4689C8</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

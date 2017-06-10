@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--main page settings-->
+<dimen name="main_activity_heading">40sp</dimen>
+<dimen name="player_heading_size">56sp</dimen>
+<!--Player page settings-->
+<dimen name="duaration_size">21sp</dimen>
+<!--Shop page settings-->
+<dimen name="year_month_size">15sp</dimen>
+<dimen name="shop_radio_size">15sp</dimen>
+<!--Library page settings-->
+<dimen name="music_cat_size">26sp</dimen>
+<dimen name="sub_cat_size">20sp</dimen>
+
+
+</resources>
